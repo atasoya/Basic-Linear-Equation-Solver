@@ -1,7 +1,7 @@
 # Screenshots
-![](images/lineargui1.png)
+![](https://github.com/atasoya/Basic-Linear-Equation-Solver/blob/master/images/lineargui1.PNG)
 
-![](images/lineargui2.png)
+![](https://github.com/atasoya/Basic-Linear-Equation-Solver/blob/master/images/lineargui2.PNG)
 
 # Syntax
  Operators you can use : 
